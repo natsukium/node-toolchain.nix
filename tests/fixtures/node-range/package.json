@@ -1,0 +1,4 @@
+{
+  "packageManager": "pnpm@10.34.5",
+  "devEngines": { "runtime": { "name": "node", "version": ">=20" } }
+}
