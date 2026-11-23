@@ -3222,6 +3222,15 @@
     },
     "integrity": "sha512-NUIc6icg7KP1rXIrZ+jvGPTTzUdF7S/P6w3CiNTpQ3+tOHDZHuboPyaPD29+D2JyMxexlhe7Re5DMxcu9RFZ+A=="
   },
+  "11.29.0": {
+    "bin": {
+      "pn": "bin/pnpm.mjs",
+      "pnpm": "bin/pnpm.mjs",
+      "pnpx": "bin/pnpx.mjs",
+      "pnx": "bin/pnpx.mjs"
+    },
+    "integrity": "sha512-2RP5s3zV/meABS6Al3Ttq7e9z2mm5tm4/Ts4vAUvqKfYkbbCAaOPtQSgf/zi5ejCYu9U+49X22LyLTU6MLyKlg=="
+  },
   "11.3.0": {
     "bin": {
       "pn": "bin/pnpm.mjs",
@@ -4165,6 +4174,20 @@
       "x86_64-linux": "sha512-ODMJgTVHvs/WOqQKE9Am5u7RztsNjXZpkn73z9z4SsU7Dtrr/3IQkjvsF1MGM9hbhMdGwl2BHAW91eCCipIsHQ=="
     },
     "integrity": "sha512-iUlAo9mlffpv03OZD7TkHgnC8tdtmC7R11J105Jn+Yj7Ti1AkAy+mSHGjZfGeqGhCW0nZjPbJI97NJJ6yd23pA=="
+  },
+  "12.23.0": {
+    "bin": {
+      "pn": "pn",
+      "pnpm": "pnpm",
+      "pnpx": "pnpx",
+      "pnx": "pnx"
+    },
+    "exe": {
+      "aarch64-darwin": "sha512-ny5+L92frsfyV3/B3zadYQuU5kBV8o2TXB5WnhBUoJ/9Mz32FVglMr8g1HmUc01yfKkjopZ4rmF1G7vs68JxIg==",
+      "aarch64-linux": "sha512-C09Z3tFnPz7CYiae326dGlJcRUNCBtlJvMc04S9M8YKACebHHyamxCItLAisvGdHVf1BawtU9shV0FngjYxMwA==",
+      "x86_64-linux": "sha512-7+9bD4LBQ5r+7nLnIhDgMnvMm7a7cfc28NogU3NY1sM0+0Jz7K+IwxZb4BJDY/AN1s3F26TgZ3az/bjeCshmXA=="
+    },
+    "integrity": "sha512-AtqU/68TP0YHQyKv5VL5DUC19xriWa77zNrMUIWx1hfpjWXgEx9XSLm2dEWXjuUFXX1ZpHPx7vDVBIVP781ZdQ=="
   },
   "12.3.0": {
     "bin": {
