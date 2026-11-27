@@ -4189,6 +4189,20 @@
     },
     "integrity": "sha512-AtqU/68TP0YHQyKv5VL5DUC19xriWa77zNrMUIWx1hfpjWXgEx9XSLm2dEWXjuUFXX1ZpHPx7vDVBIVP781ZdQ=="
   },
+  "12.24.0": {
+    "bin": {
+      "pn": "pn",
+      "pnpm": "pnpm",
+      "pnpx": "pnpx",
+      "pnx": "pnx"
+    },
+    "exe": {
+      "aarch64-darwin": "sha512-0BT++Bo1b5cHULSRiKAiNwwh5KNFlVvA+qupw+MjhkOfKdVY7iSztUeHqQT3pwkE/Ls3Sv7PhszBdaB7j6T20g==",
+      "aarch64-linux": "sha512-LCvWPUR1+/EQ/AVp9U1zLKMOo2i0G9+6jSSw1xaL59VR13KEPbTFsKFDO8fmn2o1BAQG5rh9lx+KHVinTSDWpQ==",
+      "x86_64-linux": "sha512-NeIW64Azg/b+QFj6Z14BYb84pUKVIrvf15JhhuV7YmouaZbiMRG/8nDwIvEIRvwLqXacd4gVdcsGqUcO7oIYhQ=="
+    },
+    "integrity": "sha512-X5D1CkiqQPAdxDvTrLUoki/YmdO5CQFf2yOvc7sxxXjynOspvppNbwFGrbNCBqrDMnlgQ8xQJLgV73YojLrHZw=="
+  },
   "12.3.0": {
     "bin": {
       "pn": "pn",
