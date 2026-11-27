@@ -93,6 +93,11 @@ in
     };
   }) { "node --version" = "v24.20.0"; };
 
+  node-exact-links-libatomic-since-node-25 = expectVersions "node-libatomic" (toolchain
+    "node-libatomic"
+    { }
+  ) { "node --version" = "v26.13.1"; };
+
   node-partial-falls-back-to-catalog-without-nixpkgs-major = expectVersions "node-partial" (toolchain
     "node-partial"
     { }

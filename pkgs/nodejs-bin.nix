@@ -53,6 +53,7 @@ stdenv.mkDerivation {
     patchelf $out/bin/node \
       --set-interpreter ${stdenv.cc.bintools.dynamicLinker} \
       --replace-needed libstdc++.so.6 ${lib.getLib stdenv.cc.cc}/lib/libstdc++.so.6 \
+      --replace-needed libatomic.so.1 ${lib.getLib stdenv.cc.cc}/lib/libatomic.so.1 \
       --replace-needed libgcc_s.so.1 ${
         stdenv.cc.cc.libgcc or (lib.getLib stdenv.cc.cc)
       }/lib/libgcc_s.so.1
